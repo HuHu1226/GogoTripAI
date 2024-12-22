@@ -1,0 +1,106 @@
+南京和平路: 
+    heighlights: [民国建筑风貌，文化活动丰富，商业繁荣发展，美食街市热闹，历史底蕴深厚，旅游休闲好去处]
+    images: "./product_info/images/hepinglu.png"
+    instruction: "./product_info/instructions/hepinglu.md"
+    departure_place: "汕头"
+    delivery_company_name: "顺丰"
+    id: 1
+
+
+沈阳中山街: 
+    heighlights: [历史建筑汇聚，文化街区保护，美食小吃多样，商业氛围浓厚，城市发展见证，旅游文化热点]
+    images: "./product_info/images/zhongshanjie.png"
+    instruction: "./product_info/instructions/zhongshanjie.md"
+    departure_place: "宁波"
+    delivery_company_name: "圆通"
+    id: 2
+
+
+武汉江汉路: 
+    heighlights: [历史建筑长廊，商业购物天堂，文化活动频繁，美食小吃丰富，城市发展缩影，旅游打卡必选]
+    images: "./product_info/images/jianghanlu.png"
+    instruction: "./product_info/instructions/jianghanlu.md"
+    departure_place: "广州"
+    delivery_company_name: "申通"
+    id: 3
+
+
+西安坡子街: 
+    heighlights: [文化街区繁华，美食小吃天堂，历史建筑保护，商业活动丰富，旅游休闲热点，文化活动聚集]
+    images: "./product_info/images/pozijie.png"
+    instruction: "./product_info/instructions/pozijie.md"
+    departure_place: "广州"
+    delivery_company_name: "韵达"
+    id: 4
+
+
+南京夫子庙: 
+    heighlights: [文化古街典范，美食汇聚地，历史底蕴深厚，商业活动繁荣，旅游休闲胜地，文化活动多彩]
+    images: "./product_info/images/fuzimiao.png"
+    instruction: "./product_info/instructions/fuzimiao.md"
+    departure_place: "广州"
+    delivery_company_name: "韵达"
+    id: 5
+
+
+长沙黄兴路步行街: 
+    heighlights: [历史文化街区，美食小吃丰富，商业活动繁荣，旅游休闲胜地，文化活动多样，城市发展见证]
+    images: "./product_info/images/huangxinglu.png"
+    instruction: "./product_info/instructions/huangxinglu.md"
+    departure_place: "宁波"
+    delivery_company_name: "圆通"
+    id: 6
+
+
+春熙路: 
+    heighlights: [百年商业繁荣，时尚购物天堂，文化活动丰富，美食小吃汇聚，都市娱乐中心，城市地标象征]
+    images: "./product_info/images/chunxilu.png"
+    instruction: "./product_info/instructions/chunxilu.md"
+    departure_place: "汕头"
+    delivery_company_name: "圆通"
+    id: 7
+
+
+西安大唐不夜城: 
+    heighlights: [历史古迹地标，文化活动中心，美食街市繁华，古都风貌展现，旅游热门景点，城市文化象征]
+    images: "./product_info/images/buyecheng.png"
+    instruction: "./product_info/instructions/buyecheng.md"
+    departure_place: "广州"
+    delivery_company_name: "圆通"
+    id: 8
+
+
+宽窄巷子: 
+    heighlights: [古蜀文化窗口，美食天堂，建筑艺术宝库，民俗文化体验，历史街区典范，旅游休闲胜地]
+    images: "./product_info/images/kuanzhai.png"
+    instruction: "./product_info/instructions/kuanzhai.md"
+    departure_place: "武汉"
+    delivery_company_name: "京东"
+    id: 9
+
+
+锦里: 
+    heighlights: [三国文化展示，成都生活缩影，美食街市繁华，古街风情独特，文化活动多彩，旅游热门选择]
+    images: "./product_info/images/jinli.png"
+    instruction: "./product_info/instructions/jinli.md"
+    departure_place: "广州"
+    delivery_company_name: "京东"
+    id: 10
+
+
+西安回民街: 
+    heighlights: [伊斯兰文化街，美食天堂，历史底蕴深厚，民族风情浓郁，传统商贸活跃，旅游热门地点]
+    images: "./product_info/images/huiminjie.png"
+    instruction: "./product_info/instructions/huiminjie.md"
+    departure_place: "广州"
+    delivery_company_name: "京东"
+    id: 11
+
+
+长春新民大街: 
+    heighlights: [历史政治中心，文化遗产丰富，建筑风格独特，伪满时期遗迹，城市发展见证，旅游打卡热点]
+    images: "./product_info/images/xinminStreet.png"
+    instruction: "./product_info/instructions/xinminStreet.md"
+    departure_place: "广州"
+    delivery_company_name: "顺丰"
+    id: 12
