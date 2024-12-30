@@ -28,7 +28,7 @@ pretrained_model_name_or_path = '/path/to/model/internlm2-chat-7b'
 use_varlen_attn = False
 
 # Data
-data_path = '/path/to/dataset/975_train'
+data_path = '/path/to/dataset/975_train.jsonl'
 prompt_template = PROMPT_TEMPLATE.internlm2_chat
 max_length = 2048
 pack_to_max_length = True
